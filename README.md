@@ -1,2 +1,2 @@
-# playwright-cq
-the basics of playwright testing, coded along to the CommitQuality youtube playlist 
+for further instructions: [playwright docs](https://playwright.dev/docs/intro)
+when using jetbrains intellij, compile options like --headed can be added in the run/debug configuration of each individual test
